@@ -1,0 +1,9 @@
+cs50
+Flask
+Flask-Session
+requests
+functools
+urllib.parse
+tempfile
+werkzeug.security
+datetime
